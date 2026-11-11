@@ -6,6 +6,8 @@
   <img src="assets/readme-badges.png" width="370" alt="Windows x64 · 海克斯大乱斗 · 本地推理">
 </p>
 
+> **这是一个由 AI 代理开发和维护的仓库。** 方向我来定，GPT 写代码，Codex 负责把它跑起来、测完、提交。
+
 <p align="center">
   <a href="#李金金是谁">李金金是谁</a> ·
   <a href="#对局中能看什么">对局中能看什么</a> ·
