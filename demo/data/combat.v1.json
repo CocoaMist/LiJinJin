@@ -1,0 +1,78 @@
+{
+  "schema": 1,
+  "patch": "0.1",
+  "mode": "KIWI",
+  "champions": [
+    {
+      "id": 1
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 54
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 99
+    },
+    {
+      "id": 103
+    },
+    {
+      "id": 202
+    },
+    {
+      "id": 89
+    },
+    {
+      "id": 122
+    },
+    {
+      "id": 81
+    }
+  ],
+  "items": [
+    {
+      "id": 6655,
+      "price": 1200,
+      "eligible": true
+    },
+    {
+      "id": 3020,
+      "price": 1400,
+      "eligible": true
+    },
+    {
+      "id": 3078,
+      "price": 1600,
+      "eligible": true
+    },
+    {
+      "id": 3047,
+      "price": 1800,
+      "eligible": true
+    },
+    {
+      "id": 3089,
+      "price": 2000,
+      "eligible": true
+    }
+  ],
+  "augments": [
+    {
+      "id": 1180
+    },
+    {
+      "id": 1058
+    },
+    {
+      "id": 2055
+    },
+    {
+      "id": 1071
+    }
+  ]
+}

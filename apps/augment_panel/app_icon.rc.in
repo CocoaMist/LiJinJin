@@ -1,0 +1,35 @@
+#pragma code_page(65001)
+#include <windows.h>
+#include "@CMAKE_CURRENT_SOURCE_DIR@/app_version.h"
+#cmakedefine LIXIN_DISTRIBUTION_BUILD
+
+1 ICON "@CMAKE_CURRENT_SOURCE_DIR@/../../assets/brand/lijinjin-app.ico"
+
+1 VERSIONINFO
+FILEVERSION LIXIN_FILE_VERSION
+PRODUCTVERSION LIXIN_FILE_VERSION
+FILEFLAGSMASK VS_FFI_FILEFLAGSMASK
+FILEFLAGS 0
+FILEOS VOS_NT_WINDOWS32
+FILETYPE VFT_APP
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404B0"
+        BEGIN
+            VALUE "FileDescription", "李金金 · 对局助手\0"
+            VALUE "FileVersion", LIXIN_FILE_VERSION_TEXT "\0"
+            VALUE "ProductName", "李金金\0"
+            VALUE "ProductVersion", LIXIN_FILE_VERSION_TEXT "\0"
+            VALUE "InternalName", "lixin_augment_panel\0"
+            VALUE "OriginalFilename", "lixin_augment_panel.exe\0"
+#ifdef LIXIN_DISTRIBUTION_BUILD
+            VALUE "LiXinDistribution", "1\0"
+#endif
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0804, 1200
+    END
+END

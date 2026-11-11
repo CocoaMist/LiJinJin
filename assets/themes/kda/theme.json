@@ -1,0 +1,102 @@
+{
+  "id": "kda_all_out_editorial",
+  "name": "K/DA · MORE / ALL OUT",
+  "version": 6,
+  "composition": {
+    "layers": ["backdrop", "midground", "foreground"],
+    "interactive_layer": "foreground",
+    "backdrop_motion_px": [0, 0],
+    "midground_motion_px": [8, 4],
+    "foreground_motion_px": [1, 1],
+    "display_stage_frame": false,
+    "content_rendering": "live_native_widgets",
+    "input_geometry_follows_visuals": true
+  },
+  "palette": {
+    "bg": "#09090b",
+    "surface": "#18181b",
+    "raised": "#222225",
+    "border": "#373740",
+    "text": "#edeef4",
+    "muted": "#aaabb7",
+    "silver": "#dce0eb",
+    "ice": "#bedee9",
+    "lilac": "#b6a8d2",
+    "ready": "#98caba",
+    "danger": "#e19aa9",
+    "gold": "#d8c59c"
+  },
+  "typography": {
+    "body": [
+      "Inter",
+      "Noto Sans SC",
+      "Segoe UI"
+    ],
+    "numeric": [
+      "Inter",
+      "Noto Sans SC"
+    ],
+    "display": [
+      "Inter",
+      "Noto Sans SC"
+    ],
+    "body_weight": 400,
+    "bundled_weights": [
+      400,
+      500,
+      600,
+      700
+    ],
+    "license": "SIL OFL 1.1"
+  },
+  "shape": {
+    "window": 8,
+    "workspace": 4,
+    "gap": 4,
+    "section": 4,
+    "control": 4,
+    "navigation_group": 4,
+    "navigation": 2,
+    "artwork": 3,
+    "hud": 4,
+    "card_outer": 4,
+    "card_inner": 1,
+    "tag": 2,
+    "small": 1
+  },
+  "motion": {
+    "easing": "OutCubic",
+    "navigation_ms": 220,
+    "card_ms": 300,
+    "silk_reveal_ms": 650,
+    "pointer_response_ms": 280,
+    "control_response_ms": 180,
+    "hud_action_ms": 220,
+    "hud_shell_ms": 300,
+    "looping": false,
+    "edge_flow": {
+      "style": "localized_kda_edge_reflection",
+      "band_px": 2.2,
+      "overlay_interval_ms": 50,
+      "theme_bound": true,
+      "covers_text": false,
+      "geometry_animated": false,
+      "pause_when_hidden_or_minimized": true,
+      "respect_reduced_motion": true
+    },
+    "data_delay_ms": 0,
+    "reduced_motion_preference": "appearance/reducedMotion",
+    "respect_windows_animations": true
+  },
+  "skins": [
+    "kda",
+    "kda_red"
+  ],
+  "firestarter": {
+    "id": "kda_red",
+    "name": "K/DA · 绯焰",
+    "material": "layered red-orange flames / warm core / black chrome / crimson lacquer",
+    "campaign_asset": ":/lixin/kda/textures/firestarter-key-art.png",
+    "visual_reference": "https://www.youtube.com/watch?v=Mmw-PpWhKFg"
+  }
+}

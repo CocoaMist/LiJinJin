@@ -9,7 +9,8 @@
 <p align="center">
   <a href="#李金金是谁">李金金是谁</a> ·
   <a href="#对局中能看什么">对局中能看什么</a> ·
-  <a href="#怎么启动">怎么启动</a>
+  <a href="#怎么启动">怎么启动</a> ·
+  <a href="#源码与许可">源码与许可</a>
 </p>
 
 <img src="assets/prism-divider.png" width="100%" alt="">
@@ -55,5 +56,11 @@
 推荐分析在本机运行。如需额外的阵容分析，可在「设置 → 模型」里配置 DeepSeek 或兼容的本地模型。
 
 <img src="assets/prism-divider.png" width="100%" alt="">
+
+## 源码与许可
+
+本仓库公开了 Windows 助手的主窗口、局内浮层、本地推理和数据接入代码。可以用仓库里的合成数据构建并启动演示。[构建说明](BUILD.md)
+
+自研代码采用 [MIT](LICENSE)。Qt 动态库、开源字体和游戏素材遵循各自条款。[第三方许可](THIRD_PARTY_NOTICES.md)
 
 *李金金是独立开发项目。《英雄联盟》及相关游戏素材的权利归各自权利方所有。*

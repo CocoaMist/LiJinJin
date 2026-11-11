@@ -1,0 +1,22 @@
+[
+  {
+    "augment_id": 1180,
+    "name_zh_cn": "演示强化 1",
+    "ordinary_offer_eligible": true
+  },
+  {
+    "augment_id": 1058,
+    "name_zh_cn": "演示强化 2",
+    "ordinary_offer_eligible": true
+  },
+  {
+    "augment_id": 2055,
+    "name_zh_cn": "演示强化 3",
+    "ordinary_offer_eligible": true
+  },
+  {
+    "augment_id": 1071,
+    "name_zh_cn": "演示强化 4",
+    "ordinary_offer_eligible": true
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "patch": "0.1",
+  "catalog_path": "catalog-fixture",
+  "manifest_sha256": "680d7ef6d58a2891c53cdbb2b4e058eb2481b69a7ded054416c7904cd976f4db",
+  "combat_path": "data/combat.v1.json",
+  "combat_sha256": "a93795e556197446351eede54a0726dd46b76df5cd73b04e5a332ac8cfe8b2e5",
+  "data_revision": "public-synthetic-fixture"
+}

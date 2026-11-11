@@ -1,0 +1,3 @@
+# Catalog manifests verify the bytes of these fixtures on every checkout.
+/demo/**/*.json text eol=lf
+/assets/themes/kda/fonts/*-OFL.txt whitespace=-blank-at-eol

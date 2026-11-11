@@ -1,0 +1,27 @@
+{
+  "patch": "0.1",
+  "scope": "public_synthetic_demo",
+  "counts": {
+    "champions": 10,
+    "items": 5,
+    "augments": 4
+  },
+  "files": [
+    {
+      "path": "summary.json",
+      "sha256": "38ffb9d2d961e5b5badb95b406a4b088763eed4e468eb16f9a1f14c235d323c1"
+    },
+    {
+      "path": "catalog/champions.zh-CN.json",
+      "sha256": "6bedc65b372cc82099d4c40b6b0deae362ee24ff5b696eebb790c0d993888628"
+    },
+    {
+      "path": "catalog/items.extended.zh-CN.json",
+      "sha256": "ac98f3b6027cfdb8ce5408b39c7f85b632f6767df4f98f18a362d5b31918eab3"
+    },
+    {
+      "path": "catalog/augments.KIWI.zh-CN.json",
+      "sha256": "1b57cee14dd3b930a40d5bdb23d25489c7ad25bf50c0de61569f0c2729d7d4e5"
+    }
+  ]
+}

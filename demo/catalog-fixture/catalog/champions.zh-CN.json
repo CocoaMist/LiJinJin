@@ -1,0 +1,42 @@
+[
+  {
+    "champion_id": 1,
+    "name_zh_cn": "演示英雄 1"
+  },
+  {
+    "champion_id": 22,
+    "name_zh_cn": "演示英雄 2"
+  },
+  {
+    "champion_id": 54,
+    "name_zh_cn": "演示英雄 3"
+  },
+  {
+    "champion_id": 64,
+    "name_zh_cn": "演示英雄 4"
+  },
+  {
+    "champion_id": 99,
+    "name_zh_cn": "演示英雄 5"
+  },
+  {
+    "champion_id": 103,
+    "name_zh_cn": "演示英雄 6"
+  },
+  {
+    "champion_id": 202,
+    "name_zh_cn": "演示英雄 7"
+  },
+  {
+    "champion_id": 89,
+    "name_zh_cn": "演示英雄 8"
+  },
+  {
+    "champion_id": 122,
+    "name_zh_cn": "演示英雄 9"
+  },
+  {
+    "champion_id": 81,
+    "name_zh_cn": "演示英雄 10"
+  }
+]

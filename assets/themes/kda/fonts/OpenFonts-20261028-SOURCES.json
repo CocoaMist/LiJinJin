@@ -1,0 +1,39 @@
+{
+  "retrieved": "2026-10-28",
+  "provider": "Google Fonts official repository",
+  "license": "SIL Open Font License 1.1",
+  "font_bytes_modified": false,
+  "system_installation_required": false,
+  "files": [
+    {
+      "file": "NotoSansSC-Variable.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+      "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+      "family": "Noto Sans SC",
+      "legacy_family": "Noto Sans SC Thin",
+      "axes": {"wght": {"minimum": 100, "default": 100, "maximum": 900}},
+      "license_file": "NotoSansSC-OFL.txt"
+    },
+    {
+      "file": "NotoSansSC-OFL.txt",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/OFL.txt",
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    {
+      "file": "Inter-Variable.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/Inter%5Bopsz,wght%5D.ttf",
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+      "family": "Inter",
+      "axes": {
+        "wght": {"minimum": 100, "default": 400, "maximum": 900},
+        "opsz": {"minimum": 14, "default": 14, "maximum": 32}
+      },
+      "license_file": "Inter-OFL.txt"
+    },
+    {
+      "file": "Inter-OFL.txt",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/OFL.txt",
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+    }
+  ]
+}

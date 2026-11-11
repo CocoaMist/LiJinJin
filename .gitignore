@@ -1,0 +1,7 @@
+/build/
+/.vs/
+/.local/
+/demo/.local/
+/.env
+*.user
+*.ini
