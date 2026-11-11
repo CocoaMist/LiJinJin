@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/gpt61-openai-title.png" width="370" alt="GPT6.1 · OPENAI">
+</p>
+
+<p align="center">
   <img src="assets/lijinjin-cover.jpg" width="100%" alt="李金金 · 英雄联盟海克斯大乱斗助手">
 </p>
 
