@@ -1,8 +1,12 @@
-# 李金金 · 海克斯大乱斗助手
+<h1 align="center">
+  <img src="assets/lijinjin-title.svg" width="840" alt="李金金 · 海克斯大乱斗助手">
+</h1>
 
-![适用平台 Windows x64](https://img.shields.io/static/v1?label=%E5%AF%BE%E5%BF%9COS&message=Windows%20x64&color=7356A6&labelColor=29243A&style=flat-square)
-![玩法 海克斯大乱斗](https://img.shields.io/static/v1?label=%E3%83%A2%E3%83%BC%E3%83%89&message=ARAM%20Mayhem&color=A54B76&labelColor=29243A&style=flat-square)
-![本地推理](https://img.shields.io/static/v1?label=%E6%8E%A8%E8%AB%96&message=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB&color=386883&labelColor=29243A&style=flat-square)
+<p align="center">
+  <img alt="适用平台 Windows x64" src="https://img.shields.io/static/v1?label=%E5%AF%BE%E5%BF%9COS&amp;message=Windows%20x64&amp;color=7356A6&amp;labelColor=29243A&amp;style=flat-square">
+  <img alt="玩法 海克斯大乱斗" src="https://img.shields.io/static/v1?label=%E3%83%A2%E3%83%BC%E3%83%89&amp;message=ARAM%20Mayhem&amp;color=A54B76&amp;labelColor=29243A&amp;style=flat-square">
+  <img alt="本地推理" src="https://img.shields.io/static/v1?label=%E6%8E%A8%E8%AB%96&amp;message=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB&amp;color=386883&amp;labelColor=29243A&amp;style=flat-square">
+</p>
 
 李金金是面向《英雄联盟》国服海克斯大乱斗的 Windows 桌面助手。选牌时可以查看强化条件和比较依据，进入对局后可以看下一件装备、还差多少金币，以及双方阵容。
 
