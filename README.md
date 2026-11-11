@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="assets/lijinjin-title.svg" width="840" alt="李金金 · 海克斯大乱斗助手">
-</h1>
+<p align="center">
+  <img src="assets/lijinjin-wordmark.svg" width="620" alt="李金金 · 海克斯大乱斗助手">
+</p>
 
 <p align="center">
   <img alt="适用平台 Windows x64" src="https://img.shields.io/static/v1?label=%E5%AF%BE%E5%BF%9COS&amp;message=Windows%20x64&amp;color=7356A6&amp;labelColor=29243A&amp;style=flat-square">

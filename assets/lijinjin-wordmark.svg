@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 140" role="img" aria-labelledby="title">
+  <title id="title">李金金 · 海克斯大乱斗助手</title>
+  <defs>
+    <linearGradient id="metal" gradientUnits="userSpaceOnUse" x1="14" y1="3" x2="54" y2="116">
+      <stop stop-color="#F3F9FD"/>
+      <stop offset=".29" stop-color="#CAD2E5"/>
+      <stop offset=".47" stop-color="#EDF3FD"/>
+      <stop offset=".53" stop-color="#A9AEC8"/>
+      <stop offset=".72" stop-color="#D2C7EB"/>
+      <stop offset="1" stop-color="#9AA8C9"/>
+    </linearGradient>
+    <linearGradient id="symbol-metal" x2=".72" y2="1">
+      <stop stop-color="#EDFAFF"/>
+      <stop offset=".41" stop-color="#C6D9ED"/>
+      <stop offset=".67" stop-color="#F0F2FA"/>
+      <stop offset="1" stop-color="#9F93C8"/>
+    </linearGradient>
+    <linearGradient id="prism" x2="1" y2=".84">
+      <stop stop-color="#ABEDF1"/>
+      <stop offset="1" stop-color="#C1ADEB"/>
+    </linearGradient>
+
+    <path id="double-j" d="M27 37L82 6V24L27 55Z
+      M57 51L76 40V105L58 123H39L9 106V88L43 69V88L28 97L44 106L52 102L57 96Z
+      M91 34L111 46V123L91 143L74 153L55 142L83 125L91 116Z
+      M119 82L140 95L119 108Z"/>
+
+    <path id="li" d="M17 26C28 24 47 23 60 23H123L111 34H10Z
+      M56 6L71 3V49L58 54Z
+      M54 29L69 31C53 48 26 59 1 64L5 57C26 49 45 37 54 29Z
+      M68 28C83 41 99 48 122 51L114 61C93 59 76 48 63 35Z
+      M30 58H104L99 67L70 84V102C70 112 59 117 36 115L31 105C46 107 54 105 54 100V81L78 67H22Z
+      M13 83H121L109 95H6Z"/>
+
+    <path id="jin" d="M57 8L70 4C84 18 101 30 125 37L113 47C92 41 74 29 63 17C48 33 25 45 1 52L4 44C27 34 44 22 57 8Z
+      M38 44H92L82 54H30Z
+      M57 51H72V105H57Z
+      M24 65H111L101 75H17Z
+      M26 80L39 78C44 84 47 91 49 98L37 100C34 92 30 85 26 80Z
+      M92 78L107 80C99 89 92 95 82 100L76 96C84 88 89 82 92 78Z
+      M15 101H122L109 113H7Z"/>
+  </defs>
+  <g transform="translate(10 13) scale(.75)" stroke="#57536A" stroke-width="1.65" stroke-linejoin="round" paint-order="stroke fill">
+    <use href="#double-j" fill="url(#symbol-metal)"/>
+    <path d="M27 37L82 6V24L27 55ZM119 82L140 95L119 108Z" fill="url(#prism)" stroke="none"/>
+  </g>
+  <g fill="url(#metal)" stroke="#57536A" stroke-width="1.35" stroke-linejoin="round" paint-order="stroke fill">
+    <use href="#li" transform="translate(138 11) skewX(-11)"/>
+    <use href="#jin" transform="translate(285 11) skewX(-11)"/>
+    <use href="#jin" transform="translate(432 11) skewX(-11)"/>
+  </g>
+</svg>
