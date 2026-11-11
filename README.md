@@ -8,6 +8,10 @@
   <img alt="本地推理" src="https://img.shields.io/static/v1?label=%E6%8E%A8%E8%AB%96&amp;message=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB&amp;color=386883&amp;labelColor=29243A&amp;style=flat-square">
 </p>
 
+**李金金是谁？** 他是我的好BRO，长得还蛮好看的。游戏理解是天才级别。跟他打海克斯，我还在读第一张牌，他已经讲到拿了这张第三件该出什么了。我有时候还没听懂，他已经讲下一张了。
+
+他打游戏实在太厉害，我就给他蒸馏了。蒸出来一看，还是那么能 BB。
+
 李金金是面向《英雄联盟》国服海克斯大乱斗的 Windows 桌面助手。选牌时可以查看强化条件和比较依据，进入对局后可以看下一件装备、还差多少金币，以及双方阵容。
 
 ![李金金对局主页。顶部显示下一件装备和组件估价，下方并排展示双方阵容。](screenshots/match-dashboard.png)
